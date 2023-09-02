@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ayuradhikary
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python+django
-- 💞️ I’m looking to collaborate on ...
 - 📫 adhikariayur7@gmail.com
 
 <!---

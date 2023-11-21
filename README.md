@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayuradhikary
-- 👀 I’m interested in web development
+- 👀 I’m interested in back-end web development.
 - 📫 adhikariayur7@gmail.com
 
 <!---

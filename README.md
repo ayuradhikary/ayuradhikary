@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ayuradhikary
-- 👀 I’m interested in data engineering.
 - 📫 adhikariayur7@gmail.com
 
 <!---
